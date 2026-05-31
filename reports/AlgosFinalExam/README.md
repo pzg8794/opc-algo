@@ -1,6 +1,6 @@
-# AlgoHw5
+# AlgosFinalExam
 
-Path: `reports/AlgoHw5`
+Path: `reports/AlgosFinalExam`
 
 ## Purpose
 
@@ -8,11 +8,14 @@ Report, lab, assignment, final-project, notes, and documentation material staged
 
 ## Items
 
-- `Algorithms-Solutions-CH-25-Oct2010.doc` (file)
-- `BolandDumitrescuSolutions1.pdf` (file)
-- `cs521_fall_2011_sol4.pdf` (file)
-- `Homework5Algo.pdf` (file)
-- `hw3ans.doc` (file)
+- `First/` (folder)
+- `Fourth/` (folder)
+- `HW7-ALGOs/` (folder)
+- `Second/` (folder)
+- `Third/` (folder)
+- `AlgoFinal.docx` (file)
+- `hw1.pdf` (file)
+- `hw2.pdf` (file)
 
 ## Notes
 

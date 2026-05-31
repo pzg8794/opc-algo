@@ -1,10 +1,10 @@
 # HW7-ALGOs
 
-Path: `AlgosFinalExam/HW7-ALGOs`
+Path: `reports/AlgosFinalExam/HW7-ALGOs`
 
 ## Purpose
 
-Indexed project directory from the old Portafolio cleanup.
+Report, lab, assignment, final-project, notes, and documentation material staged for reuse or future Overleaf conversion.
 
 ## Items
 
@@ -31,4 +31,4 @@ Indexed project directory from the old Portafolio cleanup.
 
 ## Notes
 
-README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.
+This README was regenerated after importing all GitHub-appropriate simple files from Drive.
