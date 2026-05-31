@@ -2,6 +2,10 @@
 
 Path: `AlgosFinalExam/HW7-ALGOs`
 
+## Purpose
+
+Indexed project directory from the old Portafolio cleanup.
+
 ## Items
 
 - `131g.pdf` (file)
@@ -9,7 +13,6 @@ Path: `AlgosFinalExam/HW7-ALGOs`
 - `2008_spring_hw7_solution.pdf` (file)
 - `courses.csail.mit.edu_6.046_spring04_lectures_lecture20-21.pdf` (file)
 - `final-sol.pdf` (file)
-- `HPtoHC.ppt` (file)
 - `HW4_Sol.pdf` (file)
 - `hw7Algo.docx` (file)
 - `kevin.pdf` (file)
@@ -28,4 +31,4 @@ Path: `AlgosFinalExam/HW7-ALGOs`
 
 ## Notes
 
-This directory was indexed from the old Portafolio Drive source. Large binaries and archives may remain Drive-only.
+README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.

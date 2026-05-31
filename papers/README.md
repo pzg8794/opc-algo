@@ -1,15 +1,14 @@
-# Second
+# papers
 
-Path: `AlgosFinalExam/Second`
+Path: `papers`
 
 ## Purpose
 
-Indexed project directory from the old Portafolio cleanup.
+Paper/research/proposal materials staged for future Overleaf conversion.
 
 ## Items
 
-- `hw3.pdf` (file)
-- `lec15.pdf` (file)
+- No items currently classified here.
 
 ## Notes
 
