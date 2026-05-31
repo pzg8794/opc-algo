@@ -1,14 +1,22 @@
-# Drive-Only / Non-GitHub Material
+<!-- AUTO-GENERATED-PORTFOLIO-README -->
+# Drive-Only and Heavy Items
 
-Drive source: https://drive.google.com/drive/folders/1L8x2JD_giGQFSC9uKYVKHaZBhvhuYToW
+GitHub contains the simple project files: code, papers, reports, presentations, notebooks, and lightweight assets. Heavy media, raw data, installers, archives, model files, and other large binaries stay referenced in Google Drive.
 
-These folders were present in Drive but did not contain GitHub-appropriate simple files after filtering. They are not kept as empty GitHub folders. Check Drive for videos, installers, archives, raw data, or other excluded/heavy artifacts.
+## Drive Sources
+
+- https://drive.google.com/drive/folders/1L8x2JD_giGQFSC9uKYVKHaZBhvhuYToW
+
+## Placeholder Directories Removed From GitHub
+
+These were empty or README-only after importing GitHub-appropriate files. Check the Drive source above for heavy/data-only material.
 
 - `AlgoHw5/`
-- `AlgosFinalExam/`
 - `AlgosFinalExam/First/`
 - `AlgosFinalExam/Fourth/`
-- `AlgosFinalExam/HW7-ALGOs/`
 - `AlgosFinalExam/Second/`
 - `AlgosFinalExam/Third/`
-- `papers/`
+
+## Import Status
+
+- `1L8x2JD_giGQFSC9uKYVKHaZBhvhuYToW`: completed

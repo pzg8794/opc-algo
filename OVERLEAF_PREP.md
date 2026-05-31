@@ -1,14 +1,105 @@
-# Overleaf Preparation
+<!-- AUTO-GENERATED-PORTFOLIO-README -->
+# Overleaf Prep
 
-Repository: `opc-algo`
+Paper, report, and presentation files imported into GitHub are grouped here for later Overleaf conversion.
 
-Drive source: https://drive.google.com/drive/folders/1L8x2JD_giGQFSC9uKYVKHaZBhvhuYToW
+## Reports
 
-## Available Source Buckets
+- `reports/10.1.1.32.2831.pdf`
+- `reports/131g.pdf`
+- `reports/2008_spring_hw6_solution.pdf`
+- `reports/2008_spring_hw7_solution (1).pdf`
+- `reports/2008_spring_hw7_solution.pdf`
+- `reports/66542060.pdf`
+- `reports/Advanced Algorithms Analysis and Design  - CS702 Fall 2008 Assignment 04.pdf`
+- `reports/alg07spr_hw3sol.pdf`
+- `reports/AlgoFinal.docx`
+- `reports/AlgoHw5/Algorithms-Solutions-CH-25-Oct2010.doc`
+- `reports/AlgoHw5/BolandDumitrescuSolutions1.pdf`
+- `reports/AlgoHw5/cs521_fall_2011_sol4.pdf`
+- `reports/AlgoHw5/Homework5Algo.pdf`
+- `reports/AlgoHw5/hw3ans.doc`
+- `reports/AlgoHw6.pdf`
+- `reports/AlgoNotes.rtf`
+- `reports/Algorithm.Design..pdf`
+- `reports/Algorithms-Solutions-CH-25-Oct2010.doc`
+- `reports/AlgosFinalExam/AlgoFinal.docx`
+- `reports/AlgosFinalExam/First/lec1.pdf`
+- `reports/AlgosFinalExam/First/lec2.pdf`
+- `reports/AlgosFinalExam/First/lec3.pdf`
+- `reports/AlgosFinalExam/Fourth/hw5.pdf`
+- `reports/AlgosFinalExam/Fourth/hw6.pdf`
+- `reports/AlgosFinalExam/Fourth/hw7.pdf`
+- `reports/AlgosFinalExam/Fourth/lec17.pdf`
+- `reports/AlgosFinalExam/Fourth/lec18.pdf`
+- `reports/AlgosFinalExam/Fourth/lec19.pdf`
+- `reports/AlgosFinalExam/hw1.pdf`
+- `reports/AlgosFinalExam/hw2.pdf`
+- `reports/AlgosFinalExam/HW7-ALGOs/131g.pdf`
+- `reports/AlgosFinalExam/HW7-ALGOs/2008_spring_hw7_solution (1).pdf`
+- `reports/AlgosFinalExam/HW7-ALGOs/2008_spring_hw7_solution.pdf`
+- `reports/AlgosFinalExam/HW7-ALGOs/courses.csail.mit.edu_6.046_spring04_lectures_lecture20-21.pdf`
+- `reports/AlgosFinalExam/HW7-ALGOs/final-sol.pdf`
+- `reports/AlgosFinalExam/HW7-ALGOs/HW4_Sol.pdf`
+- `reports/AlgosFinalExam/HW7-ALGOs/hw7Algo.docx`
+- `reports/AlgosFinalExam/HW7-ALGOs/kevin.pdf`
+- `reports/AlgosFinalExam/HW7-ALGOs/New Microsoft Word Document.docx`
+- `reports/AlgosFinalExam/HW7-ALGOs/No Title.pdf`
+- `reports/AlgosFinalExam/HW7-ALGOs/No Title1.pdf`
+- `reports/AlgosFinalExam/HW7-ALGOs/ovn5.pdf`
+- `reports/AlgosFinalExam/HW7-ALGOs/q11.jpg`
+- `reports/AlgosFinalExam/HW7-ALGOs/q12.jpg`
+- `reports/AlgosFinalExam/HW7-ALGOs/q21.jpg`
+- `reports/AlgosFinalExam/HW7-ALGOs/q22.jpg`
+- `reports/AlgosFinalExam/HW7-ALGOs/q31.jpg`
+- `reports/AlgosFinalExam/HW7-ALGOs/q32.jpg`
+- `reports/AlgosFinalExam/HW7-ALGOs/q33.jpg`
+- `reports/AlgosFinalExam/HW7-ALGOs/www.cs.vassar.edu_~walter_cs241index_lectures_PDF_NPC3.pdf`
+- `reports/AlgosFinalExam/Second/hw3.pdf`
+- `reports/AlgosFinalExam/Second/lec15.pdf`
+- `reports/AlgosFinalExam/Third/hw4.pdf`
+- `reports/AlgosFinalExam/Third/lec16.pdf`
+- `reports/assignment4-solutions.pdf`
+- `reports/BolandDumitrescuSolutions1.pdf`
+- `reports/courses.csail.mit.edu_6.046_spring04_lectures_lecture20-21.pdf`
+- `reports/cs521_fall_2011_sol4.pdf`
+- `reports/final-sol.pdf`
+- `reports/FourthAssignmentAlgo.pdf`
+- `reports/Homework5Algo.pdf`
+- `reports/hw1.pdf`
+- `reports/hw2.pdf`
+- `reports/hw3.pdf`
+- `reports/hw3ans.doc`
+- `reports/hw4.pdf`
+- `reports/HW4_Sol.pdf`
+- `reports/hw5-solutions.pdf`
+- `reports/hw5.pdf`
+- `reports/hw6.doc`
+- `reports/hw6.pdf`
+- `reports/hw6sol.pdf`
+- `reports/hw7.pdf`
+- `reports/hw7Algo.docx`
+- `reports/Introduction.to.Algorithms.3rd.Edition.Sep.2010.pdf`
+- `reports/kevin.pdf`
+- `reports/lec1.pdf`
+- `reports/lec15.pdf`
+- `reports/lec16.pdf`
+- `reports/lec17.pdf`
+- `reports/lec18.pdf`
+- `reports/lec19.pdf`
+- `reports/lec2.pdf`
+- `reports/lec3.pdf`
+- `reports/MST.pdf`
+- `reports/New Microsoft Word Document.docx`
+- `reports/No Title.pdf`
+- `reports/No Title1.pdf`
+- `reports/ovn5.pdf`
+- `reports/ps6Sol.pdf`
+- `reports/report.pdf`
+- `reports/www.cs.vassar.edu_~walter_cs241index_lectures_PDF_NPC3.pdf`
 
-- `reports/`: 58 file(s)
-- `presentations/`: 2 file(s)
+## Presentations
 
-## Notes
-
-Only folders with actual GitHub-stored files are listed here. Heavy/video/data-only material stays in Drive and is listed in `DRIVE_ONLY.md` when detected.
+- `presentations/8-Graph.pptx`
+- `presentations/AlgosFinalExam/HW7-ALGOs/HPtoHC.ppt`
+- `presentations/HPtoHC.ppt`
